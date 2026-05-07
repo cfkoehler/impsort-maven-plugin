@@ -47,7 +47,7 @@
     <formatter.configFile>src/tools/modified-google-style.xml</formatter.configFile>
     <maven.compiler.release>17</maven.compiler.release>
     <project.build.outputTimestamp>2026-01-10T19:11:06Z</project.build.outputTimestamp>
-    <version.javaparser>3.28.0</version.javaparser>
+    <version.javaparser>3.28.1</version.javaparser>
   </properties>
   <dependencyManagement>
     <dependencies>
